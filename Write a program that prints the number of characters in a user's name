@@ -1,0 +1,9 @@
+#Write your code below this line 👇
+
+
+str = input('what is your name?')
+
+#str = "geeks"
+
+print(len(str))
+
