@@ -7,3 +7,5 @@ str = input('what is your name?')
 
 print(len(str))
 
+#or
+#print( len( input("What is your name?") ) )
