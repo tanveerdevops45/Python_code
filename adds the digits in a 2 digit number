@@ -1,0 +1,15 @@
+num = input('Type a two digit number: ')
+a = num[0]
+b = num[1]
+
+x = int(a)
+y = int(b)
+
+c = x + y
+
+z = str(c)
+
+#print(type(z))
+
+#print(a + " + " + b + " = " + z )
+print(z)
