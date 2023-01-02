@@ -1,0 +1,14 @@
+bill = input("Enter your bill amount: ")
+
+#a = int(bill)
+
+tip = int(bill) * (12/100)
+
+total_bill = int(bill) + int(tip)
+
+print(f"with 12% tip the total payable amount is {total_bill}") 
+
+mybill = int(total_bill) / 5
+
+b = int(total_bill)
+print(round(b/5, 2))
