@@ -9,3 +9,7 @@ b = input("b: ")
 print("a:", b)
 
 print("b:", a)
+
+# 🚨 Don't change the code below 👇
+#print("a: " + a)
+#print("b: " + b)
